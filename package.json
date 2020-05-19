@@ -3,5 +3,6 @@
   "devDependencies": {
     "cypress": "^3.4.0",
     "electron": "^5.0.8"
+    "minimist": ">=1.2.3"
   }
 }
